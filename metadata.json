@@ -1,0 +1,7 @@
+{
+  "name": "Nearby Cheap Eats Finder",
+  "description": "Finds the cheapest restaurants nearby for a specific dish using your location and Google Maps data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
